@@ -3305,7 +3305,3 @@ window.onload=function()
 {
 	if (!Game.ready) Game.Init();
 };
-
-
-
-Ubah agar fontnya jadi buat rpg, tapi bukan pixel, aku minta agar fontnya saja yang diubah, sama hal yang ga penting ga usah di tulis ulang, langsung skip aja
