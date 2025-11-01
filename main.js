@@ -1229,7 +1229,8 @@ Game.Launch=function()
 			var str='';
 			if (Game.onMenu!='')
 			{
-				str+='<div style="position:absolute;top:8px;right:8px;cursor:pointer;font-size:16px;" onclick="Game.ShowMenu(Game.onMenu);">X</div>';
+				str += '<div style="position:absolute;top:8px;right:8px;cursor:pointer;font-size:22px;font-family:\'MedievalSharp\', cursive;color:#ffccaa;text-shadow:1px 1px 3px #000;" onclick="Game.ShowMenu(Game.onMenu);">✖</div>';
+
 			}
 			if (Game.onMenu=='prefs')
 			{
